@@ -1,0 +1,149 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Apurva Singhal\\OneDrive\\Desktop\\BookApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7C153769-3B65-4C4B-A413-35F8880C04DF}|BookApp.csproj|c:\\users\\apurva singhal\\onedrive\\desktop\\bookapp\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C153769-3B65-4C4B-A413-35F8880C04DF}|BookApp.csproj|solutionrelative:controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C153769-3B65-4C4B-A413-35F8880C04DF}|BookApp.csproj|c:\\users\\apurva singhal\\onedrive\\desktop\\bookapp\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C153769-3B65-4C4B-A413-35F8880C04DF}|BookApp.csproj|solutionrelative:controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C153769-3B65-4C4B-A413-35F8880C04DF}|BookApp.csproj|c:\\users\\apurva singhal\\onedrive\\desktop\\bookapp\\dto\\bookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C153769-3B65-4C4B-A413-35F8880C04DF}|BookApp.csproj|solutionrelative:dto\\bookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C153769-3B65-4C4B-A413-35F8880C04DF}|BookApp.csproj|c:\\users\\apurva singhal\\onedrive\\desktop\\bookapp\\model\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C153769-3B65-4C4B-A413-35F8880C04DF}|BookApp.csproj|solutionrelative:model\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C153769-3B65-4C4B-A413-35F8880C04DF}|BookApp.csproj|c:\\users\\apurva singhal\\onedrive\\desktop\\bookapp\\data\\bookappdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C153769-3B65-4C4B-A413-35F8880C04DF}|BookApp.csproj|solutionrelative:data\\bookappdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C153769-3B65-4C4B-A413-35F8880C04DF}|BookApp.csproj|c:\\users\\apurva singhal\\onedrive\\desktop\\bookapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C153769-3B65-4C4B-A413-35F8880C04DF}|BookApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C153769-3B65-4C4B-A413-35F8880C04DF}|BookApp.csproj|c:\\users\\apurva singhal\\onedrive\\desktop\\bookapp\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C153769-3B65-4C4B-A413-35F8880C04DF}|BookApp.csproj|solutionrelative:controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C153769-3B65-4C4B-A413-35F8880C04DF}|BookApp.csproj|c:\\users\\apurva singhal\\onedrive\\desktop\\bookapp\\migrations\\20241212180717_dbfirst.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C153769-3B65-4C4B-A413-35F8880C04DF}|BookApp.csproj|solutionrelative:migrations\\20241212180717_dbfirst.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BookDto.cs",
+              "DocumentMoniker": "C:\\Users\\Apurva Singhal\\OneDrive\\Desktop\\BookApp\\DTO\\BookDto.cs",
+              "RelativeDocumentMoniker": "DTO\\BookDto.cs",
+              "ToolTip": "C:\\Users\\Apurva Singhal\\OneDrive\\Desktop\\BookApp\\DTO\\BookDto.cs",
+              "RelativeToolTip": "DTO\\BookDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T17:56:20.911Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BookAppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Apurva Singhal\\OneDrive\\Desktop\\BookApp\\Data\\BookAppDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\BookAppDbContext.cs",
+              "ToolTip": "C:\\Users\\Apurva Singhal\\OneDrive\\Desktop\\BookApp\\Data\\BookAppDbContext.cs",
+              "RelativeToolTip": "Data\\BookAppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T10:31:11.97Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\Apurva Singhal\\OneDrive\\Desktop\\BookApp\\Model\\Book.cs",
+              "RelativeDocumentMoniker": "Model\\Book.cs",
+              "ToolTip": "C:\\Users\\Apurva Singhal\\OneDrive\\Desktop\\BookApp\\Model\\Book.cs",
+              "RelativeToolTip": "Model\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T10:30:57.235Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\Apurva Singhal\\OneDrive\\Desktop\\BookApp\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\Apurva Singhal\\OneDrive\\Desktop\\BookApp\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T10:13:49.441Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\Apurva Singhal\\OneDrive\\Desktop\\BookApp\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\Apurva Singhal\\OneDrive\\Desktop\\BookApp\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Controllers\\UserController.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACsAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T08:42:11.262Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BookController.cs",
+              "DocumentMoniker": "C:\\Users\\Apurva Singhal\\OneDrive\\Desktop\\BookApp\\Controllers\\BookController.cs",
+              "RelativeDocumentMoniker": "Controllers\\BookController.cs",
+              "ToolTip": "C:\\Users\\Apurva Singhal\\OneDrive\\Desktop\\BookApp\\Controllers\\BookController.cs",
+              "RelativeToolTip": "Controllers\\BookController.cs",
+              "ViewState": "AgIAAEcAAAAAMzMzMzMjwFsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T05:04:27.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20241212180717_DbFirst.cs",
+              "DocumentMoniker": "C:\\Users\\Apurva Singhal\\OneDrive\\Desktop\\BookApp\\Migrations\\20241212180717_DbFirst.cs",
+              "RelativeDocumentMoniker": "Migrations\\20241212180717_DbFirst.cs",
+              "ToolTip": "C:\\Users\\Apurva Singhal\\OneDrive\\Desktop\\BookApp\\Migrations\\20241212180717_DbFirst.cs",
+              "RelativeToolTip": "Migrations\\20241212180717_DbFirst.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T18:07:18.008Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Apurva Singhal\\OneDrive\\Desktop\\BookApp\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Apurva Singhal\\OneDrive\\Desktop\\BookApp\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAIwGIAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T04:59:46.732Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
