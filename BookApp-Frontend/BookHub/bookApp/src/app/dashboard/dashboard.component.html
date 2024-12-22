@@ -1,0 +1,87 @@
+<br><br><br><br><br><br>
+
+  <div class="heading">
+    <h2>Book Hub</h2>
+  </div>
+    <!-- Get Appointments Button -->
+    <div class="get-appointment-btn-container">
+      <button class="get-appointments-btn" (click)="getAllUser()">Get Book Deatils</button>
+  </div>
+
+    <!-- Add Appointment Button -->
+    <div class="add-appointment-btn-container">
+      <button class="add-appointment-btn" (click)="addAppointment()">Manage Book</button>
+    </div>
+    
+    
+    <!-- Filter Section -->
+    <!-- <div class="filter">
+      <label for="status">Filter by Status: </label>
+      <select id="status">
+        <option value="">All</option>
+        <option value="pending">Pending</option>
+        <option value="approved">Approved</option>
+        <option value="rejected">Rejected</option>
+      </select>
+    </div> -->
+
+  <div class="appointments-container">
+    <!-- Appointments Table -->
+    <table class="appointments-table">
+      <thead>
+        <tr>
+          <th>ID</th>
+          <th>ISBN</th>
+          <th>Title</th>
+          <th>Author</th>
+          <th>Publication Year</th>
+          
+        </tr>
+      </thead>
+      <tbody>
+        <!-- Dynamically populate the rows using *ngFor -->
+      <tr *ngFor="let book of userList">
+        <td>{{ book.id}}</td>
+        <td>{{ book.isbn }}</td>
+        <td>{{ book.title }}</td>
+        <td>{{ book.author }}</td>
+        <td>{{ book.publicationYear }}</td>
+        <td>
+          <div class="button-container">
+          <button class="reschedule-btn" (click)="onEdit(book)">Edit</button>
+          <button class="reject-btn" (click)="onDelete(book.isbn)">Delete</button>
+        </div>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+  <div *ngIf="isAdding" class="appointment-form">
+    <h3>Add/Update Book</h3>
+    <form>
+        <label for="id">ID</label>
+        <input type="number" [(ngModel)]="BookObj.id" name="id" disabled/>
+
+      <label for="isbn">ISBN</label>
+      <input type="number" [(ngModel)]="BookObj.isbn" name="isbn" />
+
+      <label for="title">Title</label>
+      <input type="text" [(ngModel)]="BookObj.title" name="title" />
+
+      <label for="author">Author</label>
+      <input type="text" [(ngModel)]="BookObj.author" name="author" />
+
+      <label for="publicationYear">Publication Year</label>
+      <input type="text" [(ngModel)]="BookObj.publicationYear" name="publicationYear" />
+
+      @if(BookObj.id==0){
+        <button type="submit" (click)="onSubmit()">Submit</button>
+      }
+      @else{
+        <button type="button" (click)="onUpdate()">Update</button>
+      }
+      
+      <button type="button" (click)="toggleForm()">Cancel</button>
+    </form>
+  </div>
+  </div>
+  

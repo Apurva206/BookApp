@@ -1,0 +1,93 @@
+/* General Form Styling */
+.login-form {
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    background-color: #1E5162;
+    color: white;
+  }
+  
+  /* Form Header */
+  .login-form h2 {
+    text-align: center;
+    font-size: 24px;
+    margin-bottom: 20px;
+  }
+  
+  /* Form Fields */
+  .login-form div {
+    margin-bottom: 15px;
+  }
+  
+  /* Label Styling */
+  .login-form label {
+    display: block;
+    font-size: 14px;
+    font-weight: bold;
+    margin-bottom: 5px;
+    color: white;
+  }
+  
+  /* Input Fields */
+  .login-form input {
+    width: 100%;
+    padding: 10px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-sizing: border-box;
+  }
+  
+  /* Input Focus Styling */
+  .login-form input:focus {
+    outline: none;
+    border-color: #6c757d;
+  }
+  
+  /* Error Message Styling */
+  .error {
+    text-align: center;
+    margin-top: 10px;
+  }
+  
+  .error p {
+    font-size: 14px;
+    color: red;
+  }
+  
+  /* Success Message Styling */
+  .success {
+    text-align: center;
+    margin-top: 10px;
+  }
+  
+  .success p {
+    font-size: 14px;
+    color: green;
+  }
+  
+  /* Submit Button Styling */
+  .login-form button {
+    width: 100%;
+    padding: 12px;
+    font-size: 16px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .login-form button:disabled {
+    background-color: #ccc;
+    cursor: not-allowed;
+  }
+  
+  /* Hover Effect for Submit Button */
+  .login-form button:hover {
+    background-color: #0056b3;
+  }
+  
+  
